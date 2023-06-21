@@ -1,0 +1,1 @@
+chrome-extension://oahjfinghkkolgfkbfanpmhpiafmnepn/src/ConflictExtensionsMessage.js
